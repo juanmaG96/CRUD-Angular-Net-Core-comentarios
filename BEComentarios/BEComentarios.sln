@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEComentarios", "BEComentarios\BEComentarios.csproj", "{C71F0259-8732-4ED0-AE30-F877AE7E409D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C71F0259-8732-4ED0-AE30-F877AE7E409D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71F0259-8732-4ED0-AE30-F877AE7E409D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71F0259-8732-4ED0-AE30-F877AE7E409D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71F0259-8732-4ED0-AE30-F877AE7E409D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BFDAA63-C651-452F-85A1-460E8C336577}
+	EndGlobalSection
+EndGlobal
